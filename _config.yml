@@ -1,10 +1,39 @@
 title: Class Notes
 description: Notes for our classes
-remote_theme: just-the-docs/just-the-docs # GitHub Pages supports remote_theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
 search_enabled: true
-# Optional “Edit this page” link:
-# gh_edit_link: true
-# gh_edit_link_text: "Edit this page on GitHub"
-# gh_edit_repository: "https://github.com/YOUR_USERNAME/REPO_NAME"
-# gh_edit_branch: "main"
-# gh_edit_view_mode: "edit"
+
+# Optional "Edit this page" links
+gh_edit_link: true
+gh_edit_repository: "https://github.com/YOUR_USERNAME/AIM-Notes"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+# Enable allowed GitHub Pages plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
+
+# Auto-use the first H1 as the page title
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+# Defaults so you don't have to add front matter to every file
+defaults:
+  # Make every page use the default layout
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+  # Everything inside notes/blk06 becomes a child of the BLK06 page automatically
+  - scope:
+      path: "notes/blk06"
+      type: "pages"
+    values:
+      parent: BLK06
