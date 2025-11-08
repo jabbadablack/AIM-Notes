@@ -1,4 +1,13 @@
-# Advanced Electricity
+---
+layout: default
+title: Introduction
+parent: BLK06
+grand_parent: Notes
+nav_order: 1
+---
+
+
+# Advanced Electricity (BLK06)
 
 ###### date: <2025-11-04 Tue>
 

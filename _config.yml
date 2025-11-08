@@ -1,0 +1,10 @@
+title: Class Notes
+description: Notes for our classes
+remote_theme: just-the-docs/just-the-docs # GitHub Pages supports remote_theme
+search_enabled: true
+# Optional “Edit this page” link:
+# gh_edit_link: true
+# gh_edit_link_text: "Edit this page on GitHub"
+# gh_edit_repository: "https://github.com/YOUR_USERNAME/REPO_NAME"
+# gh_edit_branch: "main"
+# gh_edit_view_mode: "edit"
