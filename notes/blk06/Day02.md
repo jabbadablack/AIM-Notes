@@ -1,4 +1,4 @@
-# Day 2 — Direct‑Current Generators and Their Controls
+# Day02 DC Generators Controls
 
 ## What a DC Generator Does
 
@@ -13,6 +13,10 @@ A **direct‑current (DC) generator** converts engine rotation into DC power for
 - **Bearings and housing**: **steel** shafts with **grease‑lubricated** bearings and an **aluminum** or **steel** case.
 
 ## Control Boxes and Relays
+
+Quick reference from the slides:
+
+- DC Generator Ratings Typically rated for voltage and power (amps) 14 or 28 volt DC Rotation is viewed from the driven end and is termed either clockwise or counterclockwise. The direction of rotation may be stamped on the data plate. If generator with wrong rotation is used, the polarity of the output voltage is reversed.
 
 - **Voltage Regulator (VR) or Generator Control Unit (GCU)** keeps output steady.
 - **Reverse‑current relay** prevents the battery from back‑feeding a weak generator.
@@ -32,4 +36,4 @@ A **starter‑generator** starts the engine first, then switches to generator mo
 ## Key Takeaways
 
 - Keep the generator **clean, cool, and tight**.
-- Verify the **control unit** functions (regulation, protection, and sharing).
+- Verify the **control unit** functions (regulation, protection, and sharing).\n

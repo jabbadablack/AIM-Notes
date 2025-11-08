@@ -9,4 +9,4 @@ permalink: /notes/
 
 # Notes
 
-All courses live here.
+All blocks live here.

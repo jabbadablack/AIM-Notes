@@ -1,4 +1,4 @@
-# Day 3 — Small and Light Twin Aircraft Electrical Systems
+# Day03 Small Aircraft Electrical
 
 ## How Power Flows
 
@@ -8,11 +8,22 @@
 
 ## Buses You Will Recognize
 
+Quick reference from the slides:
+
+- AC Power Systems AC electrical system must maintainches a constant output of 115 - 120 Volts AC at a frequency of 400 hertz (Hz) ( + ─ 10%) GCU – used for control of AC generator functions, such as:
+  - voltage regulation and frequency control (BPCU) – used to control the distribution of electrical power between the various distribution buses.
+  - Current Transformers (CT) - inductive unit that surrounds the mainches power cables of the electrical distribution system.
+  - As AC power flows through the cables, the CT receives an induced voltage, the amount of CT voltage is directly related to the current flowing through the cable.
+
 - **Main bus**: most aircraft equipment.
 - **Avionics bus**: radios and navigation equipment. This bus is often turned on after the engine is started to protect sensitive electronics from voltage dips.
 - **Hot battery bus**: always energized for items that must work without the master switch (for example, clock, some memory circuits, or an Emergency Locator Transmitter remote switch).
 
 ## Important Components and What They Are Made Of
+
+Quick reference from the slides:
+
+- AC Supply amps device called an inverter is used to supply AC when needed for light aircraft (changes DC into AC) Usually 26 Volt AC or 115 Volt AC.
 
 - **Contactors and solenoids**: **copper** coils and **steel** plungers inside an **aluminum** or **phenolic** housing. They let a small cockpit switch control a large current safely.
 - **External power receptacle**: **aluminum** body with **copper alloy** contacts. Observe pin polarity and proper connection order.
@@ -26,4 +37,4 @@
 ## Key Takeaways
 
 - Know where each **bus** feeds.
-- Treat **grounds** as part of the circuit; clean metal‑to‑metal contact matters.
+- Treat **grounds** as part of the circuit; clean metal‑to‑metal contact matters.\n
