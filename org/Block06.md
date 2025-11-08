@@ -1,28 +1,32 @@
-#+title: blk06
-#+date: <2025-11-04 Tue>
+# Advanced Electricity
 
+###### date: <2025-11-04 Tue>
 
-* Advanced Electricity
+## Genrators and Alternators
 
 starter generator: when you employ a generator and a starter combined into one unit.
 
 AC Alternators: Found on aircraft that use a large amount of electrical power.
 
 CSD: Constant-Speed Drive
-- to ensure the alternator rotates at the correct speed to ensure a 400-Hz frequency.
+
+* to ensure the alternator rotates at the correct speed to ensure a 400-Hz frequency.
 
 CSD is monitored by a *tachometer generator.*
 
 Two most common units:
-- Bus Power Control Unit (BPCU)
 
-- GCU (Generator Control Unit)
+* Bus Power Control Unit (BPCU)
+
+* GCU (Generator Control Unit)
 
 AC alternator control systems on large transport category aircraft have redundant systems.
 
 An inverter is used to provide AC when needed for light aircraft.(Changes DC to AC)
 
-** Wiring Diagrams
+---
+
+## Wiring Diagrams
 
 Two most generally used conductors are: *Copper and Aluminum*
 
@@ -49,6 +53,7 @@ Aircraft electrical system wiring and cable may be marked with a combination of 
 Identification and markings should be placed at each end of the wire and at *3" from each end and every 15" along the wire maximum intervals* along the length of the wire.
 
 Recommended *procedures for installing* aircraft wiring:
-- /Open Wiring:/ Open wiring is any wire, wire group or wire bundle not enclose in a conduit.
 
-- /Wire Group:/ A Wire group is two or more wires going to the same location and physically ties together to retain their group identity.
+* /Open Wiring:/ Open wiring is any wire, wire group or wire bundle not enclose in a conduit.
+
+* /Wire Group:/ A Wire group is two or more wires going to the same location and physically ties together to retain their group identity.
