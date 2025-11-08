@@ -7,4 +7,4 @@ has_children: true
 
 # BLK06
 
-Syllabus, units, and lectures.
+Basically Block 4 stuff.
