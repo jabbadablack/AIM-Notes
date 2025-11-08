@@ -1,11 +1,9 @@
 
 ---
 
-layout: default
 title: BLK06
 parent: Notes
-has_children: false
-nav_order: 1
+has_children: true
 ---
 
 # BLK06
