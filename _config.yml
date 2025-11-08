@@ -5,10 +5,10 @@ color_scheme: dark
 search_enabled: true
 
 # Optional "Edit this page" links
-gh_edit_link: true
-gh_edit_repository: "https://github.com/YOUR_USERNAME/AIM-Notes"
-gh_edit_branch: "main"
-gh_edit_view_mode: "edit"
+# gh_edit_link: true
+# gh_edit_repository: "https://github.com/YOUR_USERNAME/AIM-Notes"
+# gh_edit_branch: "main"
+# gh_edit_view_mode: "edit"
 
 # Enable allowed GitHub Pages plugins
 plugins:
